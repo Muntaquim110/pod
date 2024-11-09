@@ -1,0 +1,63 @@
+.player{
+    text-align: center;
+    
+
+}
+.H1{
+    text-align: center;
+    background-color: aliceblue;
+    margin-top: 40px;
+    
+}
+
+.p{
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.head{
+    text-align: center;
+    background-color: cadetblue;
+    margin: top 0%;
+    padding-top: 0%;
+
+}
+.f{
+    text-align: center;
+    background-color: antiquewhite;
+    flex: auto;
+
+}
+form {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+  label {
+    margin-top: 10px;
+    color: #555;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"],
+  input[type="textbox"] {
+    width: 50%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    align-self: center;
+  }
+  
+  input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+
